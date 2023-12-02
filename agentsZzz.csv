@@ -1,0 +1,16 @@
+Name,Attribute,Fighting Style,Faction,Model Type,Status,HP,ATK,DEF,Impact,CRIT Rate,Crit DMG,PEN Ratio,PEN,Attribute Mastery,Energy Regeneration
+Anby,Electric,Slash,Cunning Hares,Female,Playable,603,95,49,115,5%,50%,0%,0,88,1.2
+Anton,Electric,Pierce,Belobog Heavy Industries,Male,Playable,462,101,48,110,5%,50%,0%,0,0,1.8
+Ben,Fire,Strike,Belobog Heavy Industries,Male,Playable,668,94,56,103,5%,50%,0%,0,80,1.2
+Billy,Physical,Pierce,Cunning Hares,Male,Playable,555,113,49,91,5%,50%,0%,0,100,2.4
+Corin,Physical,Slash,Victoria Housekeeping,Female,Playable,484,106,48,120,5%,50%,0%,0,0,1.6
+Ellen,Ice,Slash,Victoria Housekeeping,Female,Playable,0,0,0,0,0,0,0,0,0,0
+Grace,Electric,Pierce,Belobog Heavy Industries,Female,Playable,0,0,0,0,0,0,0,0,0,0
+Koleda,Fire,Strike,Belobog Heavy Industries,Female,Playable,431,100,45,100,5%,50%,0%,0,0,2
+Lycaon,Ice,Strike,Victoria Housekeeping,Male,Playable,473,96,50,110,5%,50%,0%,0,0,1.8
+Nekomata,Physical,Slash,Cunning Hares,Female,Playable,512,111,55,100,5%,50%,0%,0,0,2
+Nicole,Ether,Strike,Cunning Hares,Female,Playable,569,101,50,102,5%,50%,0%,0,112,1.2
+Rina,Electric,Strike Pierce,Victoria Housekeeping,Female,Playable,0,0,0,0,0,0,0,0,0,0
+Soldier 11,Fire,Slash,OBOLS Squad,Female,Playable,462,100,48,110,5%,50%,0%,0,0,1.8
+Soukaku,Ice,Slash,Section 6,Female,Playable,484,106,48,120,5%,50%,0%,0,0,1.6
+Miyabi,Ice,Slash,Section 6,Female,Upcoming,462,101,48,110,5%,50%,0%,0,0,1.8
